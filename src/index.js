@@ -16,6 +16,7 @@ ReactDOM.render(
     clientId="CAGxHudhlEBy060KTujVQktFYKbZfkMS"
     redirectUri={window.location.origin}
     cacheLocation="localstorage"
+    returnTo="https://taurusilver7.github.io"
   >
     <GithubProvider>
       <App />
