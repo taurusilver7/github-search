@@ -47,7 +47,7 @@ For unauthenticated requests, the rate limit allows for up to 60 requests per ho
 
 ### redirects with react-router-dom
 
-In order for routing to work on netlify, redirects was added to the public older.
+In order for routing to work on netlify, redirects was added to the public folder.
 
 - create a \_redirects file in public & add the following lines to it.
 - \_redirects file in public

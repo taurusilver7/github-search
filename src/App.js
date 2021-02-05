@@ -6,7 +6,7 @@ import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 function App() {
   return (
     <AuthWrapper>
-      <Router>
+      <Router basename={process.env.PUBLIC_URL}>
         <Switch>
           <PrivateRoute path="/" exact={true}>
             <Dashboard />

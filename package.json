@@ -1,7 +1,7 @@
 {
   "name": "github-user",
   "author": "taurusilver7",
-  "homepage": "https://taurusilver7.github.io/github-search/",
+  "homepage": "https://taurusilver7.github.io/github-search",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
